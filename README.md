@@ -1,80 +1,47 @@
-# 👨‍💻 Carlos Jefferson | Desenvolvedor Backend
+# 👨‍💻 Carlos Jeferson
+### Desenvolvedor Fullstack | React.js • TypeScript • Node.js
 
-Sou desenvolvedor **Backend em início de carreira**, focado na construção de **APIs REST** bem estruturadas, seguras e escaláveis.  
-Tenho experiência prática com **Node.js + TypeScript**, aplicando boas práticas como separação de responsabilidades, validações, autenticação e tratamento global de erros.
-
-Meu objetivo atual é conquistar uma vaga de **Estágio ou Backend Júnior**, evoluindo tecnicamente e participando de projetos reais.
-
----
-
-## 🚀 Projeto Principal
-
-### 🔐 API REST – Sistema com Autenticação e Autorização
-
-Backend completo desenvolvido com **Node.js e TypeScript**, seguindo padrões profissionais de mercado.
-
-#### Principais funcionalidades:
-- CRUD completo
-- Autenticação com **JWT**
-- Criptografia de senha com **bcrypt**
-- Middleware de autorização
-- Validação de dados com **Zod**
-- Paginação, filtros e ordenação
-- Tratamento global de erros
-- Seed para popular o banco de dados
-- Deploy em ambiente de produção
-
-#### Tecnologias utilizadas:
-- **Node.js**
-- **TypeScript**
-- **Prisma ORM**
-- **Banco de dados (MongoDB / PostgreSQL)**  
-- **JWT**
-- **Zod**
-- **Vitest**
-- **Docker (se tiver, opcional)**
-- **Deploy em Cloud**
-
-🔗 **Repositório:**  
-👉 https://github.com/carlosjeferson/user-auth-api
-
-🔗 **API em produção:**  
-👉 https://user-auth-api-mn9y.onrender.com
+Sou estudante de Sistemas de Informação na UFC e desenvolvedor Fullstack focado em construir aplicações modernas e tipadas. Minha especialidade é o ecossistema JavaScript/TypeScript, utilizando **React** para interfaces performáticas e **Node.js** para backends escaláveis.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Backend
-- Node.js
-- TypeScript
-- Prisma ORM
-- JWT
-- Zod
-- Vitest
-- REST API
-
-### Conceitos aplicados
-- Arquitetura em camadas (Controllers, Services, Middlewares)
-- Separação de responsabilidades
-- Boas práticas de código
-- Versionamento com Git
-- Variáveis de ambiente
-- Deploy e ambiente de produção
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | React.js, TypeScript, Tailwind CSS, Context API / Redux |
+| **Backend** | Node.js, Express.js, TypeScript, NestJS |
+| **Banco de Dados** | PostgreSQL, MongoDB, Prisma ORM |
+| **Testes & Segurança** | Vitest, Jest, JWT, Zod |
+| **DevOps & Ferramentas** | Git, Docker, Render, Vercel |
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🚀 Projeto em Destaque (Fullstack)
 
-Busco uma oportunidade como **Estagiário ou Desenvolvedor Backend Júnior**, onde eu possa:
-- Evoluir tecnicamente
-- Trabalhar com código de produção
-- Aprender com desenvolvedores mais experientes
-- Contribuir com soluções bem estruturadas
+### 🔐 Sistema de Gestão com Autenticação & Tipagem Estrita
+Uma aplicação completa (End-to-End) que utiliza TypeScript de ponta a ponta para garantir consistência entre o Frontend e o Backend.
+
+**Principais Features:**
+- **Frontend (React + TS):** Interface componentizada, gerenciamento de estado global e consumo de API com Axios/TanStack Query.
+- **Backend (Node + TS):** API REST robusta com validação de tipos via Zod e persistência de dados com Prisma.
+- **Segurança:** Fluxo completo de login com JWT, persistência de sessão e proteção de rotas privadas no React.
+- **Qualidade:** Código limpo seguindo princípios de SOLID e separação de responsabilidades.
+
+**🔗 Links do Projeto:**
+* [Repositório (Backend)](https://github.com/carlosjeferson/user-auth-api)
+* [Demo em Produção](https://user-auth-api-mn9y.onrender.com)
 
 ---
 
-## 📫 Contato
+## 🎓 Formação & Projetos
+- **Instituição:** Graduando em Sistemas de Informação – UFC.
+- **Projeto em Desenvolvimento:** Sistema Fullstack para a Secretaria de Esportes de Quixeramobim (TCC).
+- **Objetivo:** Contribuir em projetos de alta escala como **Desenvolvedor Fullstack Júnior**.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/carlos-jeferson-9aa595275/
-- ✉️ Email: carlosjjs500214@gmail.com
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jeferson-9aa595275/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosjjs500214@gmail.com)
