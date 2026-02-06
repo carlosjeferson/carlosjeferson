@@ -1,55 +1,80 @@
-# 🚀 Carlos Jefferson | Desenvolvedor Backend Java 🌟
+# 👨‍💻 Carlos Jefferson | Desenvolvedor Backend
 
-Sou um Desenvolvedor **Backend** com foco em **Java**, **Spring Boot** e construção de **APIs RESTful** em arquiteturas robustas e escaláveis. Minha paixão é por código limpo e boas práticas (como Clean Code e TDD). Possuo também experiência em Front-end (Vue.js), que me oferece uma visão completa do desenvolvimento Full Stack.
+Sou desenvolvedor **Backend em início de carreira**, focado na construção de **APIs REST** bem estruturadas, seguras e escaláveis.  
+Tenho experiência prática com **Node.js + TypeScript**, aplicando boas práticas como separação de responsabilidades, validações, autenticação e tratamento global de erros.
 
-## 🛠️ **Technical Skills**
+Meu objetivo atual é conquistar uma vaga de **Estágio ou Backend Júnior**, evoluindo tecnicamente e participando de projetos reais.
 
-### Backend & Database (Core Focus) 🎯
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Hibernate" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg">
-  <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="JUnit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-</div>
+---
 
-### Frontend & Runtime
-<div style="display: inline_block">
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## 🚀 Projeto Principal
 
-## 🎯 **Projetos de Destaque**
+### 🔐 API REST – Sistema com Autenticação e Autorização
 
-1.  **CRUD de Usuários com Spring (Arquitetura em Camadas)**
+Backend completo desenvolvido com **Node.js e TypeScript**, seguindo padrões profissionais de mercado.
 
-    * Projeto completo de Backend em **Java** e **Spring Boot**, focado na criação de **APIs RESTful**.
-    
-    * Implementação de **Arquitetura em Camadas** (Controllers, Services e Repositories) com persistência de dados via **JPA/Hibernate** em **PostgreSQL**.
-    
-    * Cobertura de testes unitários com **JUnit**, demonstrando foco em código testável e **TDD** (Test-Driven Development).
-    
-    * 🔗 [Ver Repositório: cadastro-usuario](https://github.com/carlosjeferson/cadastro-usuario)
+#### Principais funcionalidades:
+- CRUD completo
+- Autenticação com **JWT**
+- Criptografia de senha com **bcrypt**
+- Middleware de autorização
+- Validação de dados com **Zod**
+- Paginação, filtros e ordenação
+- Tratamento global de erros
+- Seed para popular o banco de dados
+- Deploy em ambiente de produção
 
-2.  **Site Esportivo (Node.js & Frontend Puro)**
+#### Tecnologias utilizadas:
+- **Node.js**
+- **TypeScript**
+- **Prisma ORM**
+- **Banco de dados (MongoDB / PostgreSQL)**  
+- **JWT**
+- **Zod**
+- **Vitest**
+- **Docker (se tiver, opcional)**
+- **Deploy em Cloud**
 
-    * Um projeto Full Stack que demonstra minha versatilidade. O **Backend** foi construído com **Node.js/Express.js** e o **Frontend** com **HTML, CSS e JavaScript** puros.
-    
-    * 🔗 [Ver Repositório: esportes-qxb-site](https://github.com/carlosjeferson/esportes-qxb-site)
+🔗 **Repositório:**  
+👉 https://github.com/carlosjeferson/user-auth-api
 
-## 📈 GitHub Stats
-<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosjeferson&show_icons=true&theme=onedark&include_all_commits=true"/>
-<br>
+🔗 **API em produção:**  
+👉 https://user-auth-api-mn9y.onrender.com
 
-## 📧 Connect with me
-<div> 
-  <a href="https://www.linkedin.com/in/carlos-jeferson-9aa595275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:carlosjjs500214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_carlosjeferson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Backend
+- Node.js
+- TypeScript
+- Prisma ORM
+- JWT
+- Zod
+- Vitest
+- REST API
+
+### Conceitos aplicados
+- Arquitetura em camadas (Controllers, Services, Middlewares)
+- Separação de responsabilidades
+- Boas práticas de código
+- Versionamento com Git
+- Variáveis de ambiente
+- Deploy e ambiente de produção
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade como **Estagiário ou Desenvolvedor Backend Júnior**, onde eu possa:
+- Evoluir tecnicamente
+- Trabalhar com código de produção
+- Aprender com desenvolvedores mais experientes
+- Contribuir com soluções bem estruturadas
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/carlos-jeferson-9aa595275/
+- ✉️ Email: carlosjjs500214@gmail.com
