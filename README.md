@@ -9,10 +9,10 @@ Sou estudante de Sistemas de Informação na UFC e desenvolvedor Fullstack focad
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | React.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Express.js, TypeScript |
+| **Frontend** | React.js, Vue.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js, TypeScript, Quarkus, Java |
 | **Banco de Dados** | PostgreSQL, MongoDB, Prisma ORM |
-| **Testes & Segurança** | Vitest, Jest, JWT, Zod |
+| **Testes & Segurança** | Vitest, Jest, JWT, Zod, JUnit5 |
 | **DevOps & Ferramentas** | Git, Docker, Render, Vercel |
 
 ---
