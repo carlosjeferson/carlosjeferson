@@ -1,7 +1,7 @@
 # 👨‍💻 Carlos Jeferson
-### Desenvolvedor Fullstack | React.js • TypeScript • Node.js
+### Desenvolvedor Fullstack | Java • Spring Boot/Quarkus • React.js/Vue.js • TypeScript • Node.js/Express.js • Cypres/JUnit 5
 
-Sou estudante de Sistemas de Informação na UFC e desenvolvedor Fullstack focado em construir aplicações modernas e tipadas. Minha especialidade é o ecossistema JavaScript/TypeScript, utilizando **React** para interfaces performáticas e **Node.js** para backends escaláveis.
+Sou um desenvolvedor focado em transformar desafios de negócio em sistemas funcionais e eficientes. Minha experiência consiste em projetar e entregar aplicações de ponta a ponta, desde a modelagem da base de dados até interfaces intuitivas e performáticas, sempre priorizando a manutenibilidade e o rigor técnico.
 
 ---
 
@@ -9,11 +9,32 @@ Sou estudante de Sistemas de Informação na UFC e desenvolvedor Fullstack focad
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | React.js, Vue.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Express.js, TypeScript, Quarkus, Java |
-| **Banco de Dados** | PostgreSQL, MongoDB, Prisma ORM |
+| **Frontend** | React.js, Vue.js, TypeScript, Tailwind CSS, Axios |
+| **Backend** | Java, Node.js, Express.js, TypeScript, Quarkus |
+| **Banco de Dados** | PostgreSQL, MongoDB, Prisma ORM, MySQL |
 | **Testes & Segurança** | Vitest, Jest, JWT, Zod, JUnit5 |
 | **DevOps & Ferramentas** | Git, Docker, Render, Vercel |
+
+---
+
+## 🚀 Projeto em Destaque (Fullstack)
+
+### 🏭 Gerenciador e Otimizador de Produção Industrial
+
+Uma solução completa (End-to-End) desenvolvida para maximizar o lucro de linhas de produção através de inteligência de dados e otimização de recursos.
+
+**Principais Features:**
+
+* **Motor de Otimização (Google OR-Tools):** Implementação de Programação Linear para calcular o plano de produção ideal, resolvendo conflitos de insumos e garantindo o maior retorno financeiro possível com base no estoque disponível.
+* **Backend de Alta Performance (Java + Quarkus):** API REST robusta construída com tecnologias modernas de nuvem, utilizando Hibernate/Panache para persistência eficiente e padrões de arquitetura limpa (Clean Code).
+* **Frontend Dinâmico (Vue.js 3 + Vite):** Interface reativa e intuitiva para gestão de matérias-primas e receitas de produtos, focada em performance e experiência do usuário sem dependências de frameworks de CSS externos.
+* **Garantia de Qualidade (Testes Automatizados):** Cobertura rigorosa com testes unitários e de integração no backend (JUnit 5/REST Assured) e automação de testes de ponta a ponta (E2E) com Cypress no frontend.
+* **Documentação e Infra:** API totalmente documentada via Swagger (OpenAPI) e pronta para ambiente conteinerizado.
+
+**🔗 Links do Projeto:**
+
+* [Repositório (Fullstack)](https://github.com/carlosjeferson/production-optimizer)
+* [Documentação da API (Swagger)](https://www.google.com/search?q=http://localhost:8080/q/swagger-ui)
 
 ---
 
