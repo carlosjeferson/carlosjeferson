@@ -1,5 +1,5 @@
 # 👨‍💻 Carlos Jeferson
-### Desenvolvedor Fullstack | Java • Spring Boot/Quarkus • React.js/Vue.js • TypeScript • Node.js/Express.js • Cypres/JUnit 5
+### Desenvolvedor Fullstack | Java & Vue
 
 Sou um desenvolvedor focado em transformar desafios de negócio em sistemas funcionais e eficientes. Minha experiência consiste em projetar e entregar aplicações de ponta a ponta, desde a modelagem da base de dados até interfaces intuitivas e performáticas, sempre priorizando a manutenibilidade e o rigor técnico.
 
@@ -10,10 +10,10 @@ Sou um desenvolvedor focado em transformar desafios de negócio em sistemas func
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Frontend** | React.js, Vue.js, TypeScript, Tailwind CSS, Axios |
-| **Backend** | Java, Node.js, Express.js, TypeScript, Quarkus |
-| **Banco de Dados** | PostgreSQL, MongoDB, Prisma ORM, MySQL |
-| **Testes & Segurança** | Vitest, Jest, JWT, Zod, JUnit5 |
-| **DevOps & Ferramentas** | Git, Docker, Render, Vercel |
+| **Backend** | Java, Spring Boot, Node.js, Express.js, TypeScript, Quarkus |
+| **Banco de Dados** | PostgreSQL, MongoDB, MySQL |
+| **Testes & Segurança** | JUnit5, Jest, Vitest, JWT, Bean Validation, Zod |
+| **DevOps & Ferramentas** | Git, Docker, AWS, Render, Vercel |
 
 ---
 
